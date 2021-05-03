@@ -1,1 +1,1 @@
-This is a README file
+This is Pat's first git project!
